@@ -7,9 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{589E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitSampleApp", "Testing\NUnitSampleApp\NUnitSampleApp.csproj", "{08538490-6894-4FE9-B73F-9BC5807CA95D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Programming", "Programming", "{35CAD7DE-01D1-4395-BBF9-E47EAFDFBF3F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestCodingStyles", "Programming\BestCodingStyles\BestCodingStyles.csproj", "{370598D0-7DBB-4539-B46F-D2490A9C689D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{7F9AA3A0-FE98-4168-BF6D-73766AC4FA6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,16 +19,15 @@ Global
 		{08538490-6894-4FE9-B73F-9BC5807CA95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08538490-6894-4FE9-B73F-9BC5807CA95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08538490-6894-4FE9-B73F-9BC5807CA95D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{370598D0-7DBB-4539-B46F-D2490A9C689D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{370598D0-7DBB-4539-B46F-D2490A9C689D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{370598D0-7DBB-4539-B46F-D2490A9C689D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{370598D0-7DBB-4539-B46F-D2490A9C689D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F9AA3A0-FE98-4168-BF6D-73766AC4FA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9AA3A0-FE98-4168-BF6D-73766AC4FA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9AA3A0-FE98-4168-BF6D-73766AC4FA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9AA3A0-FE98-4168-BF6D-73766AC4FA6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{08538490-6894-4FE9-B73F-9BC5807CA95D} = {589E9A14-BBFA-4BEF-8E57-7AD06629C98A}
-		{370598D0-7DBB-4539-B46F-D2490A9C689D} = {35CAD7DE-01D1-4395-BBF9-E47EAFDFBF3F}
 	EndGlobalSection
 EndGlobal
