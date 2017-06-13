@@ -14,5 +14,14 @@ namespace Pedram.BestPractices.Extensions
 			return long.TryParse(stringNumber, out number);
 		}
 
+		public static bool IsTime(this string stringTime)
+		{
+			throw new NotImplementedException();
+		}
+		
+		public static bool IsDate(this string stringDate)
+		{
+			throw new NotImplementedException();
+		}
 	}
 }
